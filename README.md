@@ -61,9 +61,9 @@ Endpoints
 Testing
 To run the unit tests, use:
 
-bash
-Copy code
+
 pytest tests/
+
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
