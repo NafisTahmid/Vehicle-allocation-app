@@ -22,7 +22,7 @@ The Vehicle Allocation System is a FastAPI application integrated with MongoDB t
    git clone https://github.com/NafisTahmid/Vehicle-allocation-app.git
    cd Vehicle-allocation-app
 
-2. Set Up a Virtual Environment
+2. **Set Up a Virtual Environment**
 ```bash
 python -m venv venv
 source venv/bin/activate  # For Linux/macOS
